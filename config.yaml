@@ -1,6 +1,0 @@
-url_login: "https://test-stand.gb.ru/gateway/login"
-login: "kitty89"
-passwd: "61d96a3985"
-url_post: "https://test-stand.gb.ru/api/posts"
-
-title: 'New post for test'
