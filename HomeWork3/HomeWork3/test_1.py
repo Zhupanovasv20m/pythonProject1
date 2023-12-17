@@ -3,7 +3,7 @@ import logging
 import yaml
 import time
 
-with open(r"/HomeWork3/testdata.yaml") as f:
+with open(r"C:\Users\leito\PycharmProjects\pythonProject\HomeWork3\HomeWork3\testdata.yaml") as f:
     testdata = yaml.safe_load(f)
 
 

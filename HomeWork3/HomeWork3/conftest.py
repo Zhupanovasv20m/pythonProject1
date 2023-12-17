@@ -5,7 +5,7 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.firefox import GeckoDriverManager
 
-with open(r"/HomeWork3/testdata.yaml") as f:
+with open(r"C:\Users\leito\PycharmProjects\pythonProject\HomeWork3\HomeWork3\testdata.yaml") as f:
     testdata = yaml.safe_load(f)
 
 
